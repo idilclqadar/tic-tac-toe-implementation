@@ -1,0 +1,31 @@
+
+
+
+td{
+    width: 100px;
+    height: 100px;
+}
+.vertcal{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horrizantal{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.vertcal-horisantal{
+border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+td:hover{
+    border: 1px solid red;
+}
+table{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
